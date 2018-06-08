@@ -1,0 +1,6 @@
+{
+  "name": "Boardingstops",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Boardingstops.js"
+}
